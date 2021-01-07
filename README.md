@@ -124,7 +124,7 @@ Overall, although both models has limitations given that the required data is ha
 ## **Dashboard**
 
 <br>
-The dashboard (to be finalized soon) link is noted below:
+The dashboard link is noted below:
 <br>
 <br>
 VARIATION OF HOUSE PRICE INDEX PER CITY
